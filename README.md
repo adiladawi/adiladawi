@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m @adiladawi
+
+- 👀 I’m interested in Python, and JavaScript
+
+- 🔭 I’m currently working on building data visualization app
+
+- 🌱 I’m currently learning DevOps
+
+- 💞️ I’m looking to collaborate on Panel(dashboarding solution for Python)
+
+- 📫 How to reach woe9@hotmail.com
